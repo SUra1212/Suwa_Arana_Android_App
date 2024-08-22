@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">SUWA_ARANA</string>
+    <string name="tv_register">Doctor Registration</string>
+    <string name="et_name">Name</string>
+    <string name="et_license">License Number</string>
+    <string name="et_email">Email</string>
+    <string name="et_gender">Gender</string>
+    <string name="et_pnumber">Phone Number</string>
+    <string name="et_speciality">Speciality</string>
+    <string name="et_language">Language</string>
+    <string name="button">Submit</string>
+    <string name="button2">Show</string>
+    <string name="tv_login">LOGIN</string>
+    <string name="tv_register2">Register</string>
+    <string name="tv_login1">Login</string>
+
+    <string name="et_vname">Name</string>
+    <string name="et_vadd">Address</string>
+    <string name="et_vdis">District</string>
+    <string name="et_vnic">NIC</string>
+    <string name="et_vphone">Phone Number</string>
+    <string name="et_vdose">Is first dose given?</string>
+    <string name="et_aldis">Do you have allergies/diseases?</string>
+    <string name="btn_vregister">Register</string>
+    <string name="btn_view">View</string>
+
+    <string name="tv_name">Name</string>
+
+    <string name="tv_gender">Gender</string>
+
+    <string name="tv_age">Age</string>
+    <string name="tv_address">Address</string>
+    <string name="tv_email">Email</string>
+    <string name="tv_phone">Phone</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_show">Show All</string>
+    <string name="tv_pname">Name</string>
+    <string name="tv_pgender">Gender</string>
+    <string name="tv_page">Age</string>
+    <string name="tv_paddress">Address</string>
+    <string name="tv_pemail">Email</string>
+    <string name="tv_pphone">Phone</string>
+
+    <string name="tv_bodyfat">Body Fat Calculator</string>
+    <string name="et_neck">Neck (cm)</string>
+    <string name="et_waist">Waist (cm)</string>
+    <string name="et_hip">Hip (cm)</string>
+    <string name="btn_calculate">CALCULATE</string>
+    <string name="tv_neck">Neck</string>
+
+    <string name="tv_waist">Waist</string>
+    <string name="tv_hip">Hip</string>
+    <string name="et_age">Age</string>
+
+    <string name="tv_bmi">BMI Calculator</string>
+    <string name="tv_weight">Weight</string>
+    <string name="weight">Weight in kg</string>
+    <string name="tv_height">Height</string>
+    <string name="height">Height in cm</string>
+    <string name="calculate_button">Calculte BMI</string>
+    <string name="result">Result</string>
+
+
+    <string name="tv_des">Basal Metabolic Rate (BMR)</string>
+
+    <string name="tv_answer">Answer</string>
+
+
+</resources>

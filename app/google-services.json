@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141653183883",
+    "project_id": "suwa-arana-ba647",
+    "storage_bucket": "suwa-arana-ba647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141653183883:android:d3f0ed06a9d91cdc7e738e",
+        "android_client_info": {
+          "package_name": "com.example.suwa_arana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141653183883-1rgcad1e4gl6bv75fddidns1o5ie6val.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByV6lOS4ztxCbfm7sxSGCNBHXwDeOkYyo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141653183883-1rgcad1e4gl6bv75fddidns1o5ie6val.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
